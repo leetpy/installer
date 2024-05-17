@@ -1,0 +1,5 @@
+[mr]
+name=
+baseurl=file:///var/lib/mr_repo/
+gpgcheck=0
+enabled=1
